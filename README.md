@@ -13,7 +13,7 @@ This project explores the relationship between **Bitcoin market sentiment** (Fea
 
 ```
 📦 project/
-├── 📓 bitcoin_sentiment_analysis.ipynb     ← Full Jupyter Notebook (submit this)
+├── 📓 bitcoin_sentiment_analysis.ipynb     ← Full Jupyter Notebook )
 ├── 🐍 bitcoin_sentiment_ml.py              ← Standalone Python script (same logic)
 ├── 📄 Bitcoin_Sentiment_Analysis_Report.docx  ← Professional written report
 ├── 📋 README.md                            ← This file
